@@ -1,0 +1,20 @@
+export("changePoint")
+exportMethods(
+    "CW",
+    "BH",
+    "blocks",
+    "FDRL",
+    "changePts",
+    "critical",
+    "numAlt",
+    "piAlt",
+    "plot",
+    "print",
+    "show",
+    "sigmaSq"
+)
+exportClasses("changePoint")
+import("methods")
+importFrom("graphics", "par")
+importFrom("stats", "median", "p.adjust", "quantile", "runif")
+
