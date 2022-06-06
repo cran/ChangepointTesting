@@ -126,7 +126,7 @@ Anals of Statistics, 39, 613--642.
 }
 \author{
 Hongyuan Cao, Wei Biao Wu, and Shannon T.  Holloway
-Maintainer: Shannon T. Holloway <sthollow@ncsu.edu>
+Maintainer: Shannon T. Holloway <shannon.t.holloway@gmail.com>
 }
 \examples{
 showClass("changePoint")

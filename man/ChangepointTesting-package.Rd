@@ -18,14 +18,14 @@
 \tabular{ll}{
 Package: \tab ChangepointTesting\cr
 Type: \tab Package\cr
-Version: \tab 1.0\cr
-Date: \tab 2016-02-02\cr
+Version: \tab 1.1\cr
+Date: \tab 2022-06-05\cr
 License: GPL-2\cr
 }
 }
 \author{
 Hongyuan Cao, Wei Biao Wu, and Shannon T.  Holloway
-Maintainer: Shannon T. Holloway <sthollow@ncsu.edu>
+Maintainer: Shannon T. Holloway <shannon.t.holloway@gmail.com>
 }
 \references{
 Cao, H. and Wu, W. B. (2015)
