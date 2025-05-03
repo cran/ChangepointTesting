@@ -1,9 +1,21 @@
 Package: ChangepointTesting
 Type: Package
 Title: Change Point Estimation for Clustered Signals
-Version: 1.1
-Date: 2022-06-05
-Author: Hongyuan Cao, Wei Biao Wu, and Shannon T.  Holloway
+Version: 1.2
+Date: 2025-05-03
+Author: Hongyuan Cao [aut],
+  Wei Biao Wu [aut],
+  Shannon T. Holloway [aut, cre]
+Authors@R: c(person(given = "Hongyuan",
+                        family = "Cao",
+                        role = "aut"),
+                 person(given = c("Wei", "Biao"),
+                        family = "Wu",
+                        role = "aut"),
+                 person(given = c("Shannon", "T."),
+                        family = "Holloway",
+                        role = c("aut", "cre"),
+                        email = "shannon.t.holloway@gmail.com"))
 Maintainer: Shannon T. Holloway <shannon.t.holloway@gmail.com>
 Description: A multiple testing procedure for clustered alternative hypotheses. 
     It is assumed that the p-values under the null hypotheses follow U(0,1) and 
@@ -16,6 +28,6 @@ Description: A multiple testing procedure for clustered alternative hypotheses.
 License: GPL-2
 Depends: graphics, methods, stats
 NeedsCompilation: no
-Packaged: 2022-06-05 18:52:12 UTC; 19194
+Packaged: 2025-05-03 18:15:01 UTC; 19194
 Repository: CRAN
-Date/Publication: 2022-06-06 23:10:38 UTC
+Date/Publication: 2025-05-03 18:30:02 UTC
